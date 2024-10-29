@@ -1,0 +1,77 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: AMP Customizer\n"
+"POT-Creation-Date: 2016-04-19 21:48+0100\n"
+"PO-Revision-Date: 2016-04-19 21:49+0100\n"
+"Last-Translator: \n"
+"Language-Team: Autovisie <develop@autovisie.nl>\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.7\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __\n"
+"X-Poedit-SearchPath-0: ./..\n"
+
+#: ../admin/class-amp-customizer-admin-posts.php:92
+msgid "Yes"
+msgstr "Yes"
+
+#: ../admin/class-amp-customizer-admin-posts.php:107
+msgid "Hide in Google AMP"
+msgstr "Hide in Google AMP"
+
+#: ../admin/class-amp-customizer-admin.php:132
+msgid "Add Featured Image"
+msgstr "Add Featured Image"
+
+#: ../admin/class-amp-customizer-admin.php:136
+msgid "Select a Logo"
+msgstr "Select a Logo"
+
+#: ../admin/class-amp-customizer-admin.php:140
+msgid "Header Background"
+msgstr "Header Background"
+
+#: ../admin/class-amp-customizer-admin.php:144
+msgid "Title Text Color"
+msgstr "Title Text Color"
+
+#: ../admin/class-amp-customizer-admin.php:148
+msgid "Content Text Color"
+msgstr "Content Text Color"
+
+#: ../admin/class-amp-customizer-admin.php:152
+msgid "Content Width (without px)"
+msgstr "Content Width (without px)"
+
+#: ../admin/class-amp-customizer-admin.php:168
+#: ../admin/class-amp-customizer-admin.php:169
+msgid "AMP Customizer"
+msgstr "AMP Customizer"
+
+#: ../admin/class-amp-customizer-admin.php:196
+msgid "General"
+msgstr "General"
+
+#: ../admin/class-amp-customizer-admin.php:246
+msgid "Customize the output of the Google AMP plugin"
+msgstr "Customize the output of the Google AMP plugin"
+
+#: ../admin/class-amp-customizer-admin.php:352
+msgid "Select Image"
+msgstr "Select Image"
+
+#: ../admin/class-amp-customizer-admin.php:353
+msgid "Remove Image"
+msgstr "Remove Image"
+
+#: ../admin/partials/amp-customizer-admin-display.php:2
+msgid "AMP customizer"
+msgstr "AMP customizer"
+
+#~ msgid "settings_description"
+#~ msgstr "Customize the output of the Google AMP plugin"
